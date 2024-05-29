@@ -1,6 +1,8 @@
-# Renovatio
+# renovatio
 
-> Welcome to a new era with the **Dominican Republic 2.0 Renovation Plan**, a transformative initiative designed to propel our nation into the future. This comprehensive strategy reimagines every aspect of our society, economy, and infrastructure, ensuring sustainable growth, technological advancement, and enhanced quality of life for all **Dominicans**. Join us as we embark on this exciting journey towards a more prosperous, resilient, and innovative **Dominican Republic**.
+> Bienvenidos a una nueva era con el Plan de Renovación República Dominicana 2.0, una iniciativa transformadora para impulsar nuestra nación hacia el futuro. Esta estrategia reimagina nuestra sociedad, economía e infraestructura, asegurando crecimiento sostenible, avances tecnológicos y mejor calidad de vida para todos los dominicanos.
+
+> Únase a nosotros en este viaje hacia una República Dominicana más próspera, resiliente e innovadora.
 
 ## Referencias
 
