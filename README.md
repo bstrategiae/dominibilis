@@ -6,4 +6,5 @@
 
 ## Referencias
 
+- [renovatiord](https://cipodu.github.io/renovatiord/)
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
