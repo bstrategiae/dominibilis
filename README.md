@@ -1,4 +1,4 @@
-# renovatio
+# dominibilis
 
 > Bienvenidos a una nueva era con el Plan de Renovación República Dominicana 2.0, una iniciativa transformadora para impulsar nuestra nación hacia el futuro. Esta estrategia reimagina nuestra sociedad, economía e infraestructura, asegurando crecimiento sostenible, avances tecnológicos y mejor calidad de vida para todos los dominicanos.
 
@@ -8,3 +8,6 @@
 
 - [renovatiord](https://cipodu.github.io/renovatiord/)
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+
+## Notas Curiosas
+- Dominibilis (República Dominican + bilis) - bilis significa el que puedde en latin.
