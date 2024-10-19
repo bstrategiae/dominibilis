@@ -6,7 +6,8 @@
 
 ## Referencias
 
-- [renovatiord](https://cipodu.github.io/renovatiord/)
+- [](https://bstrategiae.github.io/dominibilis/)
+- [renovatiord]([https://cipodu.github.io/renovatiord/](https://bstrategiae.github.io/dominibilis/))
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 
 ## Notas Curiosas
